@@ -28,3 +28,51 @@
    height: 535px;
    margin-top: 25px;
 }
+
+.informazioni-foto{
+   margin-top: 2px;
+   margin-bottom: 10px;
+   font-size: 15px;
+}
+
+.testo{
+   font-size: 22px;
+   margin-top: 24;
+}
+
+.evidenziato{
+   background-color: #fefe01; 
+}
+
+.lista{
+   margin-top: 40px;
+   margin-bottom: 40px;
+   font-size: 22px;
+   }
+
+   .padding{
+      padding: 0px;
+   }
+
+   .tabella{
+      font-size: 22px;
+   }
+
+   #tabella1{
+      color: white;
+      background-color: #36b2e8; 
+   }
+
+   .sfondo1{
+      background-color: #b1e5f2; 
+      margin: 50px;
+   }
+
+   .suggerimenti{
+      margin-top: 40px;
+      color: #a8a8a8; 
+   }
+
+   .monitor{ 
+   }
+   
