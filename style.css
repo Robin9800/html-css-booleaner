@@ -1,7 +1,30 @@
 #main{
    background-color: #4da0fe; 
-   background-repeat: repeat;
-   }
+  
+}
 
   
+#pattern{ width: 250px;
 
+}
+
+#titolo{
+   font-size: 56px;
+   margin-bottom: 5px;
+   margin-top: 20px;
+}
+
+.autore{
+   margin-top: 5px;
+   margin-bottom: 5px;
+   color: #a8a8a8; 
+}
+
+#autore2{
+   color:#5fc1f0;
+}
+
+.tim{
+   height: 535px;
+   margin-top: 25px;
+}
