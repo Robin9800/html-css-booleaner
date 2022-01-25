@@ -1,11 +1,27 @@
 #main{
-   background-color: #4da0fe; 
-  
+   background-color: #4da0fe;
+   background-image: url("img/pattern.png");
+   background-repeat: repeat-x;
 }
 
-  
-#pattern{ width: 250px;
+.page{
+   margin-left: 10px;
+   margin-right: 10px;
+}
 
+body{
+   margin: 0px;
+}
+
+#logo{
+   margin-top: 60px;
+   margin-bottom: 12px;
+   margin-left: 10px;
+   width: 250px;
+}
+  
+#pattern{
+    width: 250px;
 }
 
 #titolo{
@@ -48,31 +64,53 @@
    margin-top: 40px;
    margin-bottom: 40px;
    font-size: 22px;
-   }
+   padding: 20px;
+}
 
-   .padding{
-      padding: 0px;
-   }
+.padding{
+   padding: 0px;
+   
 
-   .tabella{
-      font-size: 22px;
-   }
+}
+.padding table,.padding th, .padding td{
+   border-collapse: collapse;
+}
 
-   #tabella1{
-      color: white;
-      background-color: #36b2e8; 
-   }
 
-   .sfondo1{
-      background-color: #b1e5f2; 
-      margin: 50px;
-   }
+.tabella{
+   font-size: 22px;
+   width: 100%;
+}
 
-   .suggerimenti{
-      margin-top: 40px;
-      color: #a8a8a8; 
-   }
+#tabella1{
+   color: white;
+   background-color: #36b2e8; 
+   text-align: left;
+}
 
-   .monitor{ 
+.sfondo1{
+   background-color: #b1e5f2;
+}
+
+.lastcolumn{
+   width: 50%;
+}
+
+.suggerimenti{
+   margin-top: 40px;
+   color: #a8a8a8; 
+}
+
+.monitor img {
+   float: left;
+   
+}
+
+   .caption span strong {
+      font-weight: bold;
+      font-size: 11px;
+      text-transform: uppercase;
+      display: block;
+      padding-bottom: 5px;
    }
    
